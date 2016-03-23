@@ -11,6 +11,6 @@ Includes XTREE(min) vs. XTREE(max)
 #### 3. LN Future Stuff with XTREE
 See [Issue 90](https://github.com/ai-se/e-disc/issues/90)
 
-#### Other things (Before May 16th)
+#### 4. Other things (Before May 16th)
  - Multiobjective XTREE
  - Cluster + Scott-Knott for validating XTREE plans
