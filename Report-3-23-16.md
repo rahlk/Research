@@ -1,7 +1,5 @@
 ## Since our last meeting
 
-### 4 Tasks:
-
 #### 1. Bellwether effect (final draft by 30th March)
 Issue [#3](https://github.com/rahlk/Bellwether/issues/3)
 
