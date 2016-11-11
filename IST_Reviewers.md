@@ -1,7 +1,5 @@
 # Comments from the editors and reviewers
 
-![image](https://cloud.githubusercontent.com/assets/1433964/20149973/8902ced6-a681-11e6-8ad2-3f796cb1807c.png)
-
 ### Editor
 
 Dear Authors, 
